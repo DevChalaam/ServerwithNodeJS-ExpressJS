@@ -8,7 +8,7 @@
 
 ![Code2](https://github.com/DevChalaam/ServerwithNodeJS/assets/124075393/3d3fd193-6f64-4709-88a7-252fc356b237)
 
-```
+```js
 // IMPORT MODULES NODE JS 
 const http = require("http");
 
@@ -83,7 +83,7 @@ Create data in file filedatajson.json
 
 ![filedataJson](https://github.com/DevChalaam/ServerwithNodeJS/assets/124075393/e1d5d52e-3fc7-4149-a73e-101251befeca)
 
-```
+```json
 [
     {
         "id" : 1,
